@@ -1,0 +1,6 @@
+.env
+config.json
+*__pycache__
+log/log_config.yml
+log/whorkov_app.log
+*.mp3
